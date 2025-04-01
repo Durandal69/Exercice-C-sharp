@@ -1,0 +1,14 @@
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\obj\Debug\net8.0\ExerciceAnneeBissextile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\obj\Debug\net8.0\ExerciceAnneeBissextile.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\obj\Debug\net8.0\ExerciceAnneeBissextile.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\obj\Debug\net8.0\ExerciceAnneeBissextile.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\bin\Debug\net8.0\ExerciceAnneeBissextile.exe
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\bin\Debug\net8.0\ExerciceAnneeBissextile.deps.json
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\bin\Debug\net8.0\ExerciceAnneeBissextile.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\bin\Debug\net8.0\ExerciceAnneeBissextile.dll
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\bin\Debug\net8.0\ExerciceAnneeBissextile.pdb
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\obj\Debug\net8.0\ExerciceAnneeBissextile.dll
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\obj\Debug\net8.0\refint\ExerciceAnneeBissextile.dll
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\obj\Debug\net8.0\ExerciceAnneeBissextile.pdb
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\obj\Debug\net8.0\ExerciceAnneeBissextile.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExerciceAnneeBissextile\obj\Debug\net8.0\ref\ExerciceAnneeBissextile.dll

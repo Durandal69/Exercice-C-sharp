@@ -1,0 +1,14 @@
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\obj\Debug\net8.0\ExerciceCalculIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\obj\Debug\net8.0\ExerciceCalculIMC.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\obj\Debug\net8.0\ExerciceCalculIMC.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\obj\Debug\net8.0\ExerciceCalculIMC.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\bin\Debug\net8.0\ExerciceCalculIMC.exe
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\bin\Debug\net8.0\ExerciceCalculIMC.deps.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\bin\Debug\net8.0\ExerciceCalculIMC.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\bin\Debug\net8.0\ExerciceCalculIMC.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\bin\Debug\net8.0\ExerciceCalculIMC.pdb
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\obj\Debug\net8.0\ExerciceCalculIMC.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\obj\Debug\net8.0\refint\ExerciceCalculIMC.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\obj\Debug\net8.0\ExerciceCalculIMC.pdb
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\obj\Debug\net8.0\ExerciceCalculIMC.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculIMC\obj\Debug\net8.0\ref\ExerciceCalculIMC.dll

@@ -1,0 +1,14 @@
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\obj\Debug\net8.0\ExerciceConversionDeTempérature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\obj\Debug\net8.0\ExerciceConversionDeTempérature.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\obj\Debug\net8.0\ExerciceConversionDeTempérature.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\obj\Debug\net8.0\ExerciceConversionDeTempérature.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\bin\Debug\net8.0\ExerciceConversionDeTempérature.exe
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\bin\Debug\net8.0\ExerciceConversionDeTempérature.deps.json
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\bin\Debug\net8.0\ExerciceConversionDeTempérature.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\bin\Debug\net8.0\ExerciceConversionDeTempérature.dll
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\bin\Debug\net8.0\ExerciceConversionDeTempérature.pdb
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\obj\Debug\net8.0\ExerciceConversionDeTempérature.dll
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\obj\Debug\net8.0\refint\ExerciceConversionDeTempérature.dll
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\obj\Debug\net8.0\ExerciceConversionDeTempérature.pdb
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\obj\Debug\net8.0\ExerciceConversionDeTempérature.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExerciceConversionDeTempérature\obj\Debug\net8.0\ref\ExerciceConversionDeTempérature.dll

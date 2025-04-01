@@ -1,0 +1,14 @@
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\obj\Debug\net8.0\ExerciceConversionDevise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\obj\Debug\net8.0\ExerciceConversionDevise.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\obj\Debug\net8.0\ExerciceConversionDevise.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\obj\Debug\net8.0\ExerciceConversionDevise.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\bin\Debug\net8.0\ExerciceConversionDevise.exe
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\bin\Debug\net8.0\ExerciceConversionDevise.deps.json
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\bin\Debug\net8.0\ExerciceConversionDevise.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\bin\Debug\net8.0\ExerciceConversionDevise.dll
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\bin\Debug\net8.0\ExerciceConversionDevise.pdb
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\obj\Debug\net8.0\ExerciceConversionDevise.dll
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\obj\Debug\net8.0\refint\ExerciceConversionDevise.dll
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\obj\Debug\net8.0\ExerciceConversionDevise.pdb
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\obj\Debug\net8.0\ExerciceConversionDevise.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExerciceConversionDevise\obj\Debug\net8.0\ref\ExerciceConversionDevise.dll

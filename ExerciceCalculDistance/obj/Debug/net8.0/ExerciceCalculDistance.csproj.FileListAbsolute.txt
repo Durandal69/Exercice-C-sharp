@@ -1,0 +1,14 @@
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\obj\Debug\net8.0\ExerciceCalculDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\obj\Debug\net8.0\ExerciceCalculDistance.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\obj\Debug\net8.0\ExerciceCalculDistance.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\obj\Debug\net8.0\ExerciceCalculDistance.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\bin\Debug\net8.0\ExerciceCalculDistance.exe
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\bin\Debug\net8.0\ExerciceCalculDistance.deps.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\bin\Debug\net8.0\ExerciceCalculDistance.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\bin\Debug\net8.0\ExerciceCalculDistance.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\bin\Debug\net8.0\ExerciceCalculDistance.pdb
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\obj\Debug\net8.0\ExerciceCalculDistance.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\obj\Debug\net8.0\refint\ExerciceCalculDistance.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\obj\Debug\net8.0\ExerciceCalculDistance.pdb
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\obj\Debug\net8.0\ExerciceCalculDistance.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculDistance\obj\Debug\net8.0\ref\ExerciceCalculDistance.dll

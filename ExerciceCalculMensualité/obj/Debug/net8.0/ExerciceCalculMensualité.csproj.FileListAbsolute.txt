@@ -1,0 +1,14 @@
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\bin\Debug\net8.0\ExerciceCalculMensualité.exe
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\bin\Debug\net8.0\ExerciceCalculMensualité.deps.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\bin\Debug\net8.0\ExerciceCalculMensualité.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\bin\Debug\net8.0\ExerciceCalculMensualité.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\bin\Debug\net8.0\ExerciceCalculMensualité.pdb
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\obj\Debug\net8.0\ExerciceCalculMensualité.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\obj\Debug\net8.0\ExerciceCalculMensualité.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\obj\Debug\net8.0\ExerciceCalculMensualité.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\obj\Debug\net8.0\ExerciceCalculMensualité.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\obj\Debug\net8.0\ExerciceCalculMensualité.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\obj\Debug\net8.0\refint\ExerciceCalculMensualité.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\obj\Debug\net8.0\ExerciceCalculMensualité.pdb
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\obj\Debug\net8.0\ExerciceCalculMensualité.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculMensualité\obj\Debug\net8.0\ref\ExerciceCalculMensualité.dll
