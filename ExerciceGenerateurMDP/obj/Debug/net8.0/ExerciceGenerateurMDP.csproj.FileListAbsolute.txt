@@ -1,0 +1,15 @@
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\bin\Debug\net8.0\ExerciceGenerateurMDP.exe
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\bin\Debug\net8.0\ExerciceGenerateurMDP.deps.json
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\bin\Debug\net8.0\ExerciceGenerateurMDP.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\bin\Debug\net8.0\ExerciceGenerateurMDP.dll
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\bin\Debug\net8.0\ExerciceGenerateurMDP.pdb
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\obj\Debug\net8.0\ExerciceGenerateurMDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\obj\Debug\net8.0\ExerciceGenerateurMDP.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\obj\Debug\net8.0\ExerciceGenerateurMDP.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\obj\Debug\net8.0\ExerciceGenerateurMDP.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\obj\Debug\net8.0\ExerciceGenerateurMDP.sourcelink.json
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\obj\Debug\net8.0\ExerciceGenerateurMDP.dll
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\obj\Debug\net8.0\refint\ExerciceGenerateurMDP.dll
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\obj\Debug\net8.0\ExerciceGenerateurMDP.pdb
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\obj\Debug\net8.0\ExerciceGenerateurMDP.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExerciceGenerateurMDP\obj\Debug\net8.0\ref\ExerciceGenerateurMDP.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExerciceGenerateurMDP/1.0.0": {
+        "runtime": {
+          "ExerciceGenerateurMDP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerciceGenerateurMDP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

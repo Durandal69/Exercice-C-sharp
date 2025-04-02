@@ -1,0 +1,15 @@
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\obj\Debug\net8.0\ExercicePalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\obj\Debug\net8.0\ExercicePalindrome.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\obj\Debug\net8.0\ExercicePalindrome.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\obj\Debug\net8.0\ExercicePalindrome.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\obj\Debug\net8.0\ExercicePalindrome.sourcelink.json
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\bin\Debug\net8.0\ExercicePalindrome.exe
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\bin\Debug\net8.0\ExercicePalindrome.deps.json
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\bin\Debug\net8.0\ExercicePalindrome.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\bin\Debug\net8.0\ExercicePalindrome.dll
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\bin\Debug\net8.0\ExercicePalindrome.pdb
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\obj\Debug\net8.0\ExercicePalindrome.dll
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\obj\Debug\net8.0\refint\ExercicePalindrome.dll
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\obj\Debug\net8.0\ExercicePalindrome.pdb
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\obj\Debug\net8.0\ExercicePalindrome.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExercicePalindrome\obj\Debug\net8.0\ref\ExercicePalindrome.dll
