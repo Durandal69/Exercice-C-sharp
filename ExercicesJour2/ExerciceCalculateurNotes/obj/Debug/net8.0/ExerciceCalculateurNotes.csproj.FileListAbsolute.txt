@@ -1,0 +1,15 @@
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\obj\Debug\net8.0\ExerciceCalculateurNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\obj\Debug\net8.0\ExerciceCalculateurNotes.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\obj\Debug\net8.0\ExerciceCalculateurNotes.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\obj\Debug\net8.0\ExerciceCalculateurNotes.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\obj\Debug\net8.0\ExerciceCalculateurNotes.sourcelink.json
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\bin\Debug\net8.0\ExerciceCalculateurNotes.exe
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\bin\Debug\net8.0\ExerciceCalculateurNotes.deps.json
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\bin\Debug\net8.0\ExerciceCalculateurNotes.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\bin\Debug\net8.0\ExerciceCalculateurNotes.dll
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\bin\Debug\net8.0\ExerciceCalculateurNotes.pdb
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\obj\Debug\net8.0\ExerciceCalculateurNotes.dll
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\obj\Debug\net8.0\refint\ExerciceCalculateurNotes.dll
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\obj\Debug\net8.0\ExerciceCalculateurNotes.pdb
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\obj\Debug\net8.0\ExerciceCalculateurNotes.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceCalculateurNotes\obj\Debug\net8.0\ref\ExerciceCalculateurNotes.dll
