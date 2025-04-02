@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice 3 : Calcul de l'IMC
+﻿// Jour 1 Exercice 3 : Calcul de l'IMC
 
 // Annonce des variables
 // VARIABLE poids, taille, IMC : REEL

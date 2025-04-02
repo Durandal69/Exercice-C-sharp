@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice 4 : Calcul de distance entre deux points
+﻿// Jour 1 Exercice 4 : Calcul de distance entre deux points
 
 // Les Variables
 // VARIABLE x1, x2, y1, y2 : ENTIER

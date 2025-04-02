@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice 8 : Palindrome
+﻿// Jour 1 Exercice 8 : Palindrome
 
 // Les Variables
 // VARIABLE motUtilisateur, motInverse = STRING

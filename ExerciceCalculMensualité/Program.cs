@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice 2 : Calcul de mensualité de prêt
+﻿// Jour 1 Exercice 2 : Calcul de mensualité de prêt
 
 // Annonce des variables
 // VARIABLE montantEmprunt : REEL

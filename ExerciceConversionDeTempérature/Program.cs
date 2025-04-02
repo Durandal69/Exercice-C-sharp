@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice 1 : Conversion de température
+﻿// Jour 1 Exercice 1 : Conversion de température
 
 // Annonce des variables
 // VARIABLE TypeConversion : ENTIER

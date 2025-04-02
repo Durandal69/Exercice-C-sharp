@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice 7 : Calcul de factorielle (version itérative)
+﻿// Jour 1 Exercice 7 : Calcul de factorielle (version itérative)
 
 // Les variables
 // VARIABLE nInitial, resultatIntermediaire, resultatFinal, n = ENTIER

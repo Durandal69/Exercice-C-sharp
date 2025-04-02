@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice 6 : Equation du second degré
+﻿// Jour 1 Exercice 6 : Equation du second degré
 
 // Les Variables
 // VARIABLE discriminant, a, b, c, x1, x2 = REEL

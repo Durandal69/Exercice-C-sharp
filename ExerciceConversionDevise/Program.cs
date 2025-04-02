@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice 5 : Conversion de devise
+﻿// Jour 1 Exercice 5 : Conversion de devise
 
 // Les Variables
 // VARIABLE deviseInitiale = ENTIER

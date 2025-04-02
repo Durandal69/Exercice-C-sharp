@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice Année Bissextile
+﻿// Jour 1 Exercice Année Bissextile
 
 // Les variables
 // VARIABLE année : ENTIER

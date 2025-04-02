@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice 10 : Calcul de date future
+﻿// Jour 1 Exercice 10 : Calcul de date future
 
 // Les Variables
 // VARIABLES jour, mois, annee, anneeCible, moisCible,jourCible, ajoutAnnee,ajoutJour, ajoutMois = ENTIER

@@ -1,4 +1,4 @@
-﻿// Jour 2 Exercice 9 : Générateur de mot de passe
+﻿// Jour 1 Exercice 9 : Générateur de mot de passe
 
 // Les Variables
 // TABLEAU generateur <- charactères utilisables
