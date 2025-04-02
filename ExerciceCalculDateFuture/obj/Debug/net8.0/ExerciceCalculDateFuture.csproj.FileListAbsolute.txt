@@ -1,0 +1,15 @@
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\obj\Debug\net8.0\ExerciceCalculDateFuture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\obj\Debug\net8.0\ExerciceCalculDateFuture.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\obj\Debug\net8.0\ExerciceCalculDateFuture.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\obj\Debug\net8.0\ExerciceCalculDateFuture.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\obj\Debug\net8.0\ExerciceCalculDateFuture.sourcelink.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\bin\Debug\net8.0\ExerciceCalculDateFuture.exe
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\bin\Debug\net8.0\ExerciceCalculDateFuture.deps.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\bin\Debug\net8.0\ExerciceCalculDateFuture.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\bin\Debug\net8.0\ExerciceCalculDateFuture.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\bin\Debug\net8.0\ExerciceCalculDateFuture.pdb
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\obj\Debug\net8.0\ExerciceCalculDateFuture.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\obj\Debug\net8.0\refint\ExerciceCalculDateFuture.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\obj\Debug\net8.0\ExerciceCalculDateFuture.pdb
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\obj\Debug\net8.0\ExerciceCalculDateFuture.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculDateFuture\obj\Debug\net8.0\ref\ExerciceCalculDateFuture.dll
