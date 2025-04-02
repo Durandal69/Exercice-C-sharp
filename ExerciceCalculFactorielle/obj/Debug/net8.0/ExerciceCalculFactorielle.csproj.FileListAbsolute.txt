@@ -1,0 +1,15 @@
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\obj\Debug\net8.0\ExerciceCalculFactorielle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\obj\Debug\net8.0\ExerciceCalculFactorielle.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\obj\Debug\net8.0\ExerciceCalculFactorielle.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\obj\Debug\net8.0\ExerciceCalculFactorielle.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\obj\Debug\net8.0\ExerciceCalculFactorielle.sourcelink.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\bin\Debug\net8.0\ExerciceCalculFactorielle.exe
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\bin\Debug\net8.0\ExerciceCalculFactorielle.deps.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\bin\Debug\net8.0\ExerciceCalculFactorielle.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\bin\Debug\net8.0\ExerciceCalculFactorielle.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\bin\Debug\net8.0\ExerciceCalculFactorielle.pdb
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\obj\Debug\net8.0\ExerciceCalculFactorielle.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\obj\Debug\net8.0\refint\ExerciceCalculFactorielle.dll
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\obj\Debug\net8.0\ExerciceCalculFactorielle.pdb
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\obj\Debug\net8.0\ExerciceCalculFactorielle.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExerciceCalculFactorielle\obj\Debug\net8.0\ref\ExerciceCalculFactorielle.dll
