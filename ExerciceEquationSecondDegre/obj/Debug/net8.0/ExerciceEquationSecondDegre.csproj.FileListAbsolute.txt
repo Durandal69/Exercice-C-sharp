@@ -1,0 +1,15 @@
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\obj\Debug\net8.0\ExerciceEquationSecondDegre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\obj\Debug\net8.0\ExerciceEquationSecondDegre.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\obj\Debug\net8.0\ExerciceEquationSecondDegre.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\obj\Debug\net8.0\ExerciceEquationSecondDegre.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\obj\Debug\net8.0\ExerciceEquationSecondDegre.sourcelink.json
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\bin\Debug\net8.0\ExerciceEquationSecondDegre.exe
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\bin\Debug\net8.0\ExerciceEquationSecondDegre.deps.json
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\bin\Debug\net8.0\ExerciceEquationSecondDegre.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\bin\Debug\net8.0\ExerciceEquationSecondDegre.dll
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\bin\Debug\net8.0\ExerciceEquationSecondDegre.pdb
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\obj\Debug\net8.0\ExerciceEquationSecondDegre.dll
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\obj\Debug\net8.0\refint\ExerciceEquationSecondDegre.dll
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\obj\Debug\net8.0\ExerciceEquationSecondDegre.pdb
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\obj\Debug\net8.0\ExerciceEquationSecondDegre.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExerciceEquationSecondDegre\obj\Debug\net8.0\ref\ExerciceEquationSecondDegre.dll
