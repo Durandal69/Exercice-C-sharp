@@ -1,0 +1,15 @@
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\obj\Debug\net8.0\ExerciceGenerateurMotifEtoiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\obj\Debug\net8.0\ExerciceGenerateurMotifEtoiles.AssemblyInfoInputs.cache
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\obj\Debug\net8.0\ExerciceGenerateurMotifEtoiles.AssemblyInfo.cs
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\obj\Debug\net8.0\ExerciceGenerateurMotifEtoiles.csproj.CoreCompileInputs.cache
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\obj\Debug\net8.0\ExerciceGenerateurMotifEtoiles.sourcelink.json
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\bin\Debug\net8.0\ExerciceGenerateurMotifEtoiles.exe
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\bin\Debug\net8.0\ExerciceGenerateurMotifEtoiles.deps.json
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\bin\Debug\net8.0\ExerciceGenerateurMotifEtoiles.runtimeconfig.json
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\bin\Debug\net8.0\ExerciceGenerateurMotifEtoiles.dll
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\bin\Debug\net8.0\ExerciceGenerateurMotifEtoiles.pdb
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\obj\Debug\net8.0\ExerciceGenerateurMotifEtoiles.dll
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\obj\Debug\net8.0\refint\ExerciceGenerateurMotifEtoiles.dll
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\obj\Debug\net8.0\ExerciceGenerateurMotifEtoiles.pdb
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\obj\Debug\net8.0\ExerciceGenerateurMotifEtoiles.genruntimeconfig.cache
+C:\Users\stani\AlgoSandBox\ExercicesJour2\ExerciceGenerateurMotifEtoiles\obj\Debug\net8.0\ref\ExerciceGenerateurMotifEtoiles.dll
